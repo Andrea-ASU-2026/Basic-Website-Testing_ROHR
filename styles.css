@@ -147,7 +147,7 @@ nav a{
 }
 
 .active{
-  text-decoration: underline var(--lime-green);
+  text-decoration: underline var(--white);
   text-decoration-thickness: 3px;
 }
 
