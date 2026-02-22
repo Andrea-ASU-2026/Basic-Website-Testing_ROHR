@@ -304,6 +304,7 @@ header img{
     display: grid;
     grid-template-columns: 1fr 2fr;
     align-items: center;
+    justify-items: center;
     padding-bottom: 1rem;
     max-width: 680px;
     margin: 0 auto;
@@ -313,6 +314,7 @@ header img{
    display: grid;
     grid-template-columns: 2fr 1fr;
     align-items: center;
+    justify-items: center;
     padding-bottom: 1rem;
     max-width: 680px;
     margin: 0 auto;
@@ -360,7 +362,7 @@ header img{
     max-width: 950px;
   }
   
-  #contantUs div {
+  #contactUs div {
     display: grid;
     gap: .5rem;
     grid-template-columns: 2fr 1fr;
