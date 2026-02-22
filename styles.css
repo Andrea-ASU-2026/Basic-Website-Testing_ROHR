@@ -413,14 +413,13 @@ header img{
       padding: .25rem;
   }
 
+
   article {
     padding-bottom: 0rem;
   }
 
-}
-  /*
     #contactUs img, #aboutPlants img {
-    display: inline-block;
+    width: 90$
     max-width: 300px;
   }
-}*/
+}
