@@ -251,7 +251,7 @@ header img{
 }
 
 #aboutPlants img, #contactUs img{
-  width: 30%;
+  width: 40%;
   max-width: 150px;
   margin: 0 auto;
 }
@@ -371,10 +371,10 @@ header img{
     margin: 0 auto;
     max-width: 950px;
   }
-  /*
+
   article {
     padding-bottom: 1rem;
-  }*/
+  }
  
 }
 /* -----------------------LARGE SCREEN STYLES-------------------- */
@@ -412,6 +412,12 @@ header img{
   address a{
       padding: .25rem;
   }
+
+  article {
+    padding-bottom: 0rem;
+  }
+
+}
   /*
     #contactUs img, #aboutPlants img {
     display: inline-block;
