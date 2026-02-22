@@ -253,6 +253,7 @@ header img{
 #aboutPlants img, #contactUs img{
   width: 40%;
   max-width: 150px;
+  margin: 0 auto;
 }
 
 .mobile{
