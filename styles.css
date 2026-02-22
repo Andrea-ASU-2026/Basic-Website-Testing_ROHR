@@ -419,7 +419,7 @@ header img{
   }
 
     #contactUs img, #aboutPlants img {
-    width: 90$
+    width:100%;
     max-width: 300px;
   }
 }
